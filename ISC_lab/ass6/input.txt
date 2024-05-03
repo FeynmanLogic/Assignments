@@ -1,0 +1,3 @@
+JOEROOT
+CALCULATION
+Enter text as follows: key on first line, plaintext on next
